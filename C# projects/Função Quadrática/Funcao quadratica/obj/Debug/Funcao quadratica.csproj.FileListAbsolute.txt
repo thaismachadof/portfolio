@@ -1,0 +1,20 @@
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\bin\Debug\Funcao quadratica.exe.config
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\bin\Debug\Funcao quadratica.exe
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\bin\Debug\Funcao quadratica.pdb
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao quadratica.csprojResolveAssemblyReference.cache
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao_quadratica.Form1.resources
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao_quadratica.Properties.Resources.resources
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao quadratica.csproj.GenerateResource.Cache
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao quadratica.csproj.CoreCompileInputs.cache
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao quadratica.exe
+C:\Users\thais\source\repos\Funcao quadratica\Funcao quadratica\obj\Debug\Funcao quadratica.pdb
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\bin\Debug\Funcao quadratica.exe.config
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\bin\Debug\Funcao quadratica.exe
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\bin\Debug\Funcao quadratica.pdb
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao quadratica.csprojResolveAssemblyReference.cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao_quadratica.Form1.resources
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao_quadratica.Properties.Resources.resources
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao quadratica.csproj.GenerateResource.Cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao quadratica.csproj.CoreCompileInputs.cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao quadratica.exe
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 1 - Função Quadrática\Funcao quadratica\obj\Debug\Funcao quadratica.pdb

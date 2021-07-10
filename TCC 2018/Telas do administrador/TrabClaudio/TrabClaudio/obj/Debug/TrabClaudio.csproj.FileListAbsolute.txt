@@ -1,0 +1,201 @@
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Form1.resources
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.Cache
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.area.resources
+F:\TRABALHO CLAUDIO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.genero.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.area.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Form1.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.genero.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Usuario.resources
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.Cache
+F:\TRABALHO CLAUDIO\KIT TRAB LP2\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.area.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Form1.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.genero.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Usuario.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.Cache
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+F:\TRABALHO CLAUDIO\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Livro.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.area.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Form1.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.genero.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Livro.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Usuario.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.Cache
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\kit\!!!!!!!!!!!!!KIT TRAB LP2!!!!!!!!!!!!!!!!!!\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\trab lp\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+F:\trab lp\trab lp\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\trab lp\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\trab lp\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.area.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Form1.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.genero.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Livro.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Usuario.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+C:\Users\mmaur\Desktop\trab lp\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.TipoSabor.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Usuario.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+C:\Users\LABSC3\Desktop\PROG ADMIN\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+D:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+F:\TCCCCCCCCCCC\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+G:\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT.mdf
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\ProjetoMCT_log.ldf
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe.config
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.exe
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\bin\Debug\TrabClaudio.pdb
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csprojResolveAssemblyReference.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.CadastroFuncionario.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Contato.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Estoque.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Financa.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Fornecedor.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Menu.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Produto.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.login.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Properties.Resources.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.Vendas.resources
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.GenerateResource.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CoreCompileInputs.cache
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.csproj.CopyComplete
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.exe
+C:\Users\LABSC3\Desktop\PROG ADMIN NOVO\TrabClaudio\TrabClaudio\obj\Debug\TrabClaudio.pdb

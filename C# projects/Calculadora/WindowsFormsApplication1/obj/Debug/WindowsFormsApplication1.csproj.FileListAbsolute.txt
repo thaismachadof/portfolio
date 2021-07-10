@@ -1,0 +1,32 @@
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\LP2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\LP2\Calculadora show\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\LP2\Calculadora show\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\LP2\Calculadora show\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\LP2\Calculadora show\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Trabalho de LP2 IN210 - Thaís e Julia\Questão 2 - Calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
